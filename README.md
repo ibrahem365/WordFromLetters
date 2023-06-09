@@ -1,4 +1,4 @@
-Unscramble App
+WordFromLetters App
 ===================================
 
 Single player game app that displays scrambled words. To play the game, player has to make a
